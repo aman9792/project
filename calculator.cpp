@@ -13,7 +13,7 @@ switch('c')
 case '+':cout<<"Sum:"<<a+b;
 break;
 
-case '-':cout<<"Sum:"<<pass;
+case '-':cout<<"Sum:"<<a-b;
 break;
 
 case '*':cout<<"Sum:"<<pass;
